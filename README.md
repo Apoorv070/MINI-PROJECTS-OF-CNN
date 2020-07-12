@@ -1,1 +1,1 @@
-"# MINI-PROJECTS-OF-CNN" 
+Mini Projects and case study to understand CNN
